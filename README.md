@@ -1,1 +1,1 @@
-# es6-synchronous-an-asynchronous
+### ES6-The Synchronous an Asynchronous
